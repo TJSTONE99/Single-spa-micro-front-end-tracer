@@ -13,6 +13,8 @@ The serverless web sockets functionality is stored under another repo and will b
 
 I also have greated a bassic diagram to illustrate the whole architecture from start to finish. However, I will re-itterate this was mainly thrown together so its far from great but a good reference for future use with single-spa and the notion of micro-front-ending.
 
+![Screenshot](single-spa_serverless-schema.png)
+
 Installation:
 
 	•	To run the project, open a new terminal with node installed (I used node 13.12.0 for development) and navigate to the directory containing the project folders.
