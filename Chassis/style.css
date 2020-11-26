@@ -1,0 +1,16 @@
+html, body { 
+    height: 100%; 
+    padding: 0;
+    margin: 0;
+    position:relative;
+}
+
+#single-spa-application\:form{
+    display: inline-block;
+    vertical-align: top;
+}
+
+#single-spa-application\:details{
+    display: inline-block;
+    margin-left: 50px;
+}
