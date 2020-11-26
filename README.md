@@ -1,4 +1,4 @@
-SinSingle-spa-micro-front-end-tracer
+#Single-spa-micro-front-end-tracer
 
 General Info:
 Single-spa-micro-front-end-tracer - This is an application I developed whilst researching into micro-frontends. It is extremely primitive but was built as more of a proof of concept of how server less lambda web sockets could bidirectionally communicate to 'parcels'(application) to produce some cores level functionality and linkage between apps that can be considered independent of one another. This means even though on here they are stored in one repo they have the potential to each posses their own repo (i.e. each folder name is a repo) due to the fact they each have independent dependencies &amp; build commands.
